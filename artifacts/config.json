@@ -1,0 +1,11 @@
+{
+    "num_words": 20000,
+    "max_length": 32,
+    "padding": "post",
+    "truncating": "post",
+    "threshold": 0.5,
+    "class_labels": {
+        "0": "Non-clickbait",
+        "1": "Clickbait"
+    }
+}
